@@ -5,12 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ i assembled this project using the help of github project , i didn't use the code unless i understood it.
+ i also would like to refer that i am not used to such puzzle building code so i used the help that i could use right.
+ the project isnot fully completed, and it might be messy because github has changed the look of the window that leads to this point. 
+ so please forgive me on such a point.
